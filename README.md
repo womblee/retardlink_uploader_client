@@ -1,4 +1,4 @@
-# RetardLink
+# RetardLink (nlog.us/ls)
 
 <img src="https://nlog.us/ls/favicon.png" width="256" height="256" alt="Version 1.0">
 
