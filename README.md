@@ -4,7 +4,7 @@
 
 - lightweight Windows URL shortener utility that lives in your system tray.
 - Website: [https://nlog.us/ls/](https://nlog.us/ls/)
-- 
+  
 ## Features
 
 - **One-click URL shortening**: Press Ctrl+Alt+U to instantly shorten the URL in your clipboard
