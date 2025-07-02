@@ -1,6 +1,6 @@
 # RetardLink - Client
 
-<img src="https://nlog.us/ls/favicon.png" width="256" height="256" alt="Version 1.0">
+<img src="https://nlog.us/ls/media/favicon.png" width="256" height="256" alt="Version 1.0">
 
 - lightweight Windows URL shortener utility that lives in your system tray.
 - Website: [https://nlog.us/ls/client.html](https://nlog.us/ls/client.html)
