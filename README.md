@@ -9,7 +9,7 @@
 
 - **One-click URL shortening**: Press Ctrl+Alt+U to instantly shorten the URL in your clipboard
 - **System tray integration**: Runs quietly in the background with minimal resource usage
-- **Customizable ID length**: Choose between 5, 6, 7, or 8 character IDs for your shortened URLs
+- **Customizable ID length**: Choose between 4, 5, 6, 7, or 8 character IDs for your shortened URLs
 - **Windows autostart**: Option to automatically start the application when Windows boots
 - **Instant notifications**: Get notified when a URL is successfully shortened
 
@@ -22,7 +22,7 @@
 
 ## System Requirements
 
-- Windows 7 or later
+- Windows 10 or later
 - Internet connection for shortening URLs
 
 ## Building from Source
