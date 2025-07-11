@@ -1,16 +1,11 @@
 ﻿#include <windows.h>
-#include <shellapi.h>
 #include <commctrl.h>
 #include <wininet.h>
 #include <string>
 #include <thread>
 #include <regex>
-#include <iostream>
-#include <Shlwapi.h>
-#include <memory>
 #include <atomic>
 
-#pragma comment(lib, "Shlwapi.lib")
 #pragma comment(lib, "comctl32.lib")
 #pragma comment(lib, "wininet.lib")
 
